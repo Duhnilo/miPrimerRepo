@@ -8,6 +8,6 @@
 
 ## quién soy
 
-#####😳 para qué quieres saber eso 😳
+##### 😳 para qué quieres saber eso 😳
 
 # 🥵

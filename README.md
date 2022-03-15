@@ -2,7 +2,7 @@
 
 ## otro titulo
 
-#__*Lorem ipsum dolor sit amet*__
+# __*Lorem ipsum dolor sit amet*__
 [x] Hacer Esto
 [ ] terminar de hacer esto
 

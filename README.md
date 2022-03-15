@@ -3,8 +3,8 @@
 ## otro titulo
 
 # __*Lorem ipsum dolor sit amet*__
-[x] Hacer Esto
-[ ] terminar de hacer esto
+1. [x] Hacer Esto
+2. [ ] terminar de hacer esto
 
 ## quién soy
 
